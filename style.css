@@ -1,0 +1,15 @@
+.navbar-brand{
+    color: azure;
+}
+.nab-content{
+    background-color: black;
+}
+.nav-link{
+    color: white;
+}
+.port-content:hover{
+    color: #c4aead ;
+}
+.class-title{
+    font-size: 30px;
+}
